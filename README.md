@@ -13,3 +13,6 @@ A fun and lightweight web app built with **HTML, CSS, and JavaScript** that meas
 1. 📥 Clone the repository:
    ```bash
    git clone https://github.com/mahmutimsirovic/typing-speed-tester.git
+
+
+// added this to the new branch 

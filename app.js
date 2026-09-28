@@ -73,3 +73,6 @@ function calculateAccuracy(typed, target) {
 
   return Math.round((correct / targetWords.length) * 100);
 }
+
+
+// added this to the new branch 
