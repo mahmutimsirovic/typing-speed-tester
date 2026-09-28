@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#sentence {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+#input {
+  width: 400px;
+  padding: 10px;
+}
+
+#stats {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
